@@ -1,0 +1,35 @@
+# # # # # # # # # #
+# Item format!    #
+# # # # # # # # # #
+# ITEMNAME AMOUNT ENCHANTMENT ENCHANTPOWER
+
+# # # # # # # # # #
+# Potions format! #
+# # # # # # # # # #
+# POTION LENGTH POWER
+
+# # # # # # # # # #
+# Armour format!  #
+# # # # # # # # # #
+# ITEMNAME AMOUNT ENCHANTMENT ENCHANTPOWER
+kitlist:
+- PvP
+kits:
+  PvP:
+    items:
+    - diamond_sword 1 16 1
+    - mushroom_soup 1
+    - mushroom_soup 1
+    - mushroom_soup 1
+    - mushroom_soup 1
+    - mushroom_soup 1
+    - mushroom_soup 1
+    - mushroom_soup 1
+    - mushroom_soup 1
+    potions:
+    - SPEED 60 2
+    armor:
+      helmet: iron_helmet 1
+      chestplate: iron_chestplate 1
+      leggings: iron_leggings 1
+      boots: iron_boots 1

@@ -1,0 +1,3 @@
+give-kit-message: '&9$KITNAME$ &bkit obtained!'
+op-bypass: true
+soup-sound: false
